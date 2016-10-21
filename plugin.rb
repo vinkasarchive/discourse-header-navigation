@@ -1,4 +1,4 @@
-# name: discourse-navigation
+# name: discourse-header-navigation
 # about: Custom navigation menu plugin for Discourse
 # version: 0.1
 # authors: Vinoth Kannan (vinothkannans)
